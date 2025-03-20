@@ -2,6 +2,8 @@
 
 A simple web application to download YouTube videos and playlists using `yt-dlp` and `Streamlit`. The downloaded files will be saved in the user's `Downloads` folder.
 
+[Click here to visit the YouTube Downloader app](https://ytdownloder.streamlit.app/)
+
 ## Features
 - Download individual YouTube videos or entire playlists.
 - Displays real-time download progress and speed.
@@ -42,4 +44,4 @@ A simple web application to download YouTube videos and playlists using `yt-dlp`
 
 *Enjoy downloading! 🚀*
 
-![Image](https://github.com/user-attachments/assets/a5cfcf5a-9abd-4567-b5d0-80a38e2f6f1c)
+![Image](https://github.com/user-attachments/assets/789e888f-8d1c-42ee-8516-6a6e0595d571)
