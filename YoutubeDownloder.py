@@ -18,7 +18,7 @@ if not check_ffmpeg():
 video_url = input("📥 Type YouTube Video/Playlist URL: ").strip()      
 
 # Define the download directory
-download_dir = 'YouTube_Download'
+download_dir = 'D:\YouTube_Download'
 
 # Create the directory if it doesn't exist
 os.makedirs(download_dir, exist_ok=True)
